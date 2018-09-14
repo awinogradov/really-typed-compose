@@ -1,0 +1,38 @@
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+
+      "strict": true,
+      "alwaysStrict": true,
+      "strictFunctionTypes": true,
+      "strictNullChecks": true,
+      "strictPropertyInitialization": true,
+
+      "forceConsistentCasingInFileNames": true,
+      "noImplicitAny": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "noFallthroughCasesInSwitch": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+
+      "declaration": true,
+      "downlevelIteration": true,
+      "pretty": true,
+      "preserveConstEnums": true,
+      "removeComments": true,
+
+      "rootDir": ".",
+      "outDir": ".",
+
+      "sourceMap": true
+    },
+    "include": [
+      "index.ts"
+    ],
+    "exclude": [
+      "node_modules"
+    ]
+  }
+  

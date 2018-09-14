@@ -1,0 +1,33 @@
+{
+  "name": "really-typed-compose",
+  "version": "1.0.0",
+  "description": "Definitely typed and simple implementation of function composition",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awinogradov/really-typed-compose.git"
+  },
+  "keywords": [
+    "compose",
+    "functional",
+    "programming"
+  ],
+  "author": "Anton Vinogradov <winogradovaa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/awinogradov/really-typed-compose/issues"
+  },
+  "homepage": "https://github.com/awinogradov/really-typed-compose#readme",
+  "files": [
+    "index.js",
+    "index.js.map",
+    "index.d.ts"
+  ],
+  "devDependencies": {
+    "typescript": "3.0.3"
+  }
+}
