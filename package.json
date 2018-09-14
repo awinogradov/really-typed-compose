@@ -1,6 +1,6 @@
 {
   "name": "really-typed-compose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Definitely typed and simple implementation of function composition",
   "main": "index.js",
   "typings": "index.d.ts",
